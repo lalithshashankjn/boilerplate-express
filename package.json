@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-node-with-express",
+	"description": "desc",
 	"version": "0.1.0",
 	"dependencies": {
 		"express": "^4.14.0",
